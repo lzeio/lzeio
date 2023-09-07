@@ -6,13 +6,13 @@
 ### <div align="center">I'm Labham, a full-time freelance Game Developer 👨‍💻🚀</div>  
   
 
-- 🌱 I’m currently learning Unreal and Unity  
-  
+- 🌱 I’m currently learning Unreal and Exploring Artifical Intelligence in Games.
+   
 
 - ❓ Ask me about anything related to Unity and Game Technology.  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I find it more easy to do complex ideas than simple one.  
   
 
 <br/>  
@@ -59,19 +59,13 @@
 <a href="https://linkedin.com/in/labhambaheti" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/labhambaheti" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
 </div>  
   
 
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lzeio&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
 
 
 ## Recent Blog Posts  
