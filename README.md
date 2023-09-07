@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Labham, a full-time freelance Game Developer 👨‍💻🚀</div>  
+### <div align="center">I'm Labham, a full-time Game Programmer 👨‍💻🎮</div>  
   
 
 - 🌱 I’m currently learning Unreal and Exploring Artifical Intelligence in Games.
