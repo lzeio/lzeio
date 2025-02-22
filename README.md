@@ -1,41 +1,35 @@
 # Labham's GitHub Profile 👨‍💻🎮
 
-Hello, I'm **Labham**, a passionate full-time Game Programmer currently diving deep into **Unreal Engine** and **Artificial Intelligence** in games. I love working on both challenging and intricate problems in game development and find complex concepts more intuitive than simple ones.
+Hello, I'm Labham, a dedicated full-time Game Programmer with a strong focus on Unreal Engine and Artificial Intelligence in games. I thrive on tackling challenging and intricate problems in game development, finding complex concepts far more intuitive than simple ones. My passion lies in exploring advanced gameplay mechanics, optimizing performance, and seamlessly integrating AI systems into interactive experiences. I'm constantly seeking new ways to push the boundaries of game technology, and I'm excited to continue growing as a developer while contributing to innovative projects.
 
 ### My Current Focus:
-- 🌱 **Learning Unreal Engine**  
-- 🚀 **Exploring Artificial Intelligence** in Games
+-🌱 **Learning how game engines are engineered** and how they can be actively used in development.
+-🚀 **Exploring new ways to define games** and pushing the boundaries of game design and technology.
 
 ### My Expertise:
-- ❓ Ask me about **Unity**, **Game Development**, and **Game Technology**.
-
-### Fun Fact:
-- ⚡ I find solving complex problems more exciting than simpler ones.
-
+-❓Ask me about **Unity**, **Game Development**, **Game AI**, **Physics Engines**, **Unreal Engine**, and **Game Technology**.
 ---
 
 ## 🔧 Tech Stack
 
 ### Programming Languages:
 - C++
-- Java
 - C#
-- Python
-- .NET
-
+- .JS
+---
 ### Game Engines:
 - Unity
-
+- Unreal
+- Cocos 2dx
+- Phaser
+- Construct 2
+- Construct 3
+- C++ based Proprietary Engines
 ---
 
 ## 🔗 Connect with Me:
 - [GitHub](https://github.com/lzeio)
 - [LinkedIn](https://linkedin.com/in/labhambaheti)
-
----
-
-## 📜 Recent Blog Posts
-*(Add blog posts if you have any to share)*
 
 ---
 
