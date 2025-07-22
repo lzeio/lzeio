@@ -59,8 +59,6 @@ I thrive on solving tough technical problems and translating complex ideas into 
 ## ✨ Fun Facts
 - I find **complex systems easier** to work with than “simple” ones — give me an AI tree over a UI screen any day!
 - I've developed over **40+ HTML games** and multiple **AA games** across mobile, console, and PC.
-- I once built an **engine from scratch in C++** for fun — complete with real-time debugging overlays.
-
 ---
 
 ## 🔗 Connect with Me
