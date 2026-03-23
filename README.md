@@ -1,4 +1,4 @@
-# 👨‍💻 Labham Baheti — Game Programmer | AI Enthusiast | Tech Explorer 🎮
+# Labham Baheti Game Programmer | AI Enthusiast | Tech Explorer 🎮
 
 Hey! I’m **Labham**, a full-time **Game Programmer** who lives and breathes gameplay systems, **Unreal Engine**, and the magic of **Game AI**. I love diving into low-level engine architecture just as much as I enjoy crafting intuitive, high-level experiences.
 
