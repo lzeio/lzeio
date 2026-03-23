@@ -43,7 +43,7 @@ I thrive on solving tough technical problems and translating complex ideas into 
 | **Kitten Rescue Multiplayer** | WebGL | Multiplayer game with real-time physics, AI, and collectibles |
 | **Custom Game Engine** | C++ | Engine with custom renderer, FMOD audio, debugging tools & physics |
 | **Battle Legion** | Mobile | Tactical auto-battler with monetization, boss fights, and analytics |
-| **Unity WebGL Framework** | Unity + JS | Plug-and-play multiplayer system with WebSocket networking |
+| **Unity WebGL Framework**  *(Dissertation)* | Unity + JS | Plug-and-play multiplayer system with WebSocket networking |
 
 ---
 
